@@ -1,2 +1,4 @@
 *
 !.gitignore
+!annotations_paths.npy
+!images_paths.npy
